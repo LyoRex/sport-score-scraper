@@ -21,4 +21,4 @@ Use:
 **NFL scores:**
   * Command 1: *python ss.py <"f" or "football"> <"y" or "yesterday" ; "t" or "today> <{number of days back}>*
     * {number of days back}: only valid when selecting the "y" input. This determines how many days back to go
-  * Command 2: *python ss.py <"f" or "football">*
+  * Command 2: *python ss.py <"f" or "football"> <season year*> *<week*>
